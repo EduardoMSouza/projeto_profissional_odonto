@@ -1,0 +1,18 @@
+// ConvenioRequest.java
+package consultorio.api.dto.request.pessoa.embedded.paciente;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class ConvenioRequest {
+
+    private String nomeConvenio;
+
+    private String numeroInscricao;
+}

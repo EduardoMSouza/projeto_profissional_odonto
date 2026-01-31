@@ -4,7 +4,7 @@ import consultorio.domain.agenda.FilaEspera;
 import consultorio.domain.agenda.TipoProcedimento;
 import consultorio.dto.request.agenda.FilaEsperaRequest;
 import consultorio.dto.response.agenda.FilaEsperaResponse;
-import consultorio.service.FilaEsperaService;
+import consultorio.service.agenda.FilaEsperaService;
 import jakarta.validation.Valid;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;

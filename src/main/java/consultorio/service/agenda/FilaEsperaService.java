@@ -1,4 +1,4 @@
-package consultorio.service;
+package consultorio.service.agenda;
 
 import consultorio.domain.agenda.FilaEspera;
 import consultorio.domain.agenda.TipoProcedimento;

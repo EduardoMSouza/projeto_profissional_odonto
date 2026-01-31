@@ -7,7 +7,7 @@ import consultorio.dto.request.agenda.FilaEsperaRequest;
 import consultorio.dto.response.agenda.FilaEsperaResponse;
 import consultorio.mapper.agenda.FilaEsperaMapper;
 import consultorio.repository.agenda.FilaEsperaRepository;
-import consultorio.service.FilaEsperaService;
+import consultorio.service.agenda.FilaEsperaService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
